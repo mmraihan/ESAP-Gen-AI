@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35913.81 d17.13
+VisualStudioVersion = 17.13.35913.81
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESAP-Text-Completion", "ESAP-Text-Completion\ESAP-Text-Completion.csproj", "{3D786A2B-FDB9-4579-A473-A5A0A6E4C955}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESAP-Ollama-integration", "ESAP-Ollama-integration\ESAP-Ollama-integration.csproj", "{8FDD0FA6-72F0-4FD6-81D7-BA48C0E4A459}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{3D786A2B-FDB9-4579-A473-A5A0A6E4C955}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D786A2B-FDB9-4579-A473-A5A0A6E4C955}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D786A2B-FDB9-4579-A473-A5A0A6E4C955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FDD0FA6-72F0-4FD6-81D7-BA48C0E4A459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FDD0FA6-72F0-4FD6-81D7-BA48C0E4A459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FDD0FA6-72F0-4FD6-81D7-BA48C0E4A459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FDD0FA6-72F0-4FD6-81D7-BA48C0E4A459}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
