@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESAP-Text-Completion", "ESA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESAP-Ollama-integration", "ESAP-Ollama-integration\ESAP-Ollama-integration.csproj", "{8FDD0FA6-72F0-4FD6-81D7-BA48C0E4A459}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESAP.Knowledge-Base.API", "ESAP.Knowledge-Base.API\ESAP.Knowledge-Base.API.csproj", "{99A3563F-C32D-4AE8-88C8-A29CAC7A1239}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8FDD0FA6-72F0-4FD6-81D7-BA48C0E4A459}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FDD0FA6-72F0-4FD6-81D7-BA48C0E4A459}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8FDD0FA6-72F0-4FD6-81D7-BA48C0E4A459}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99A3563F-C32D-4AE8-88C8-A29CAC7A1239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99A3563F-C32D-4AE8-88C8-A29CAC7A1239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99A3563F-C32D-4AE8-88C8-A29CAC7A1239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99A3563F-C32D-4AE8-88C8-A29CAC7A1239}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
